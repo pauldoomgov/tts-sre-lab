@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+**/terraform.tfstate.*.backup
+.vagrant
+Vagrantfile
+
+# Leave version locks and packages out
+package-lock.json
+node_modules/
+
+Gemfile.lock
+
+.venv/
+
+# Exclude binaries
+uecho/golang/uecho
