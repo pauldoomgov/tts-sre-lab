@@ -71,17 +71,19 @@ The note reads:
 ## Your Challenge
 
 One person can't do it all alone, but you will need to demo how things can be
-made better.
+made better.  You have been given a time limit of **three hours** to build your demo.
 
 Your challenge:
 
 * Fork this repo
-* Select an area to focus on
+* Select an area to focus on (ci, cd, infra, etc.)
 * Create a proof of concept, in code
 * Be ready to demo and walk through your code
 
 Rules:
 * GitHub, your local workstation, and free tier cloud services are allowed.  (No paid
 services outside of free tier, please.)
+* Time box your effort to **no more than three hours**.
+* If you don't get something working that is OK!  Share what you have done.
 * Application code can be modified **only** to add tooling or address configuration and build needs.  Implement tools to highlight security issues the application developers need to fix.
 * Focus on **enabling the application developers** to address [The Problems](#the-problems).
